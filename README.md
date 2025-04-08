@@ -1,2 +1,3 @@
 # demo_project
-this is a demo project maybe i will delete it soon
+this is a demo project maybe i may delete it soon
+just learning git 
